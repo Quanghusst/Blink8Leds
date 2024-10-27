@@ -14,4 +14,8 @@
 ![Mô tả ảnh](https://github.com/Quanghusst/Blink8Leds/blob/main/8Leds.jpg)
 - Chạy code bằng arduino IDE
 
+## Giải thích 
+- Thì cứ cố gắng sao để ví dụ 10101010 thì đèn sẽ là sáng tối sáng tối sáng tối sáng tối sẽ thành hiện thực
+- Các loại nháy thì cố gắng điều khiển 10101010 đó thôi
+  
 ## Hết
