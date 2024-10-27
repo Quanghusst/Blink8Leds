@@ -2,7 +2,7 @@
 
 ## Các phép toán trên bit
 - AND là phép nhân hai bit
-- OR  là phép công hai bit và 1 + 1 = 1
+- OR  là phép cộng hai bit và 1 + 1 = 1
 - XOR là phép cộng hai bit và 1 + 1 = 0
 - NOT là phép đảo ngược giá trị của bit
 - Kiểm tra một bit: x & (1 << n) kiểm tra xem bit thứ n của x có bằng 1 không.
